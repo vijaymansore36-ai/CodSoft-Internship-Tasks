@@ -1,3 +1,4 @@
-# Task4
+Task 4: Currency Converter
 
-This folder contains the code for Task4.
+Convert currencies using its exchange rates.
+Provide a user-friendly interface for currency conversion.

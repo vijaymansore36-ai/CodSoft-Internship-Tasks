@@ -1,3 +1,4 @@
-# Task2
+Task 2: Student Grade Calculator
 
-This folder contains the code for Task2.
+Calculate total marks and average percentage.
+Assign grades and display results.

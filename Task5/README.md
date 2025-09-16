@@ -1,3 +1,3 @@
-# Task5
+Task 5: Student Management System
 
-This folder contains the code for Task5.
+Manage students with Student and StudentManagementSystem classes.

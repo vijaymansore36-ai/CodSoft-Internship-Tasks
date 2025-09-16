@@ -1,3 +1,5 @@
-# Task1
 
-This folder contains the code for Task1.
+Task 1: Number Guessing Game
+
+Generate random numbers, prompt user guesses, and provide feedback.
+Allow multiple rounds and calculate scores.
